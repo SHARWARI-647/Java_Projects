@@ -19,7 +19,7 @@ Student data is stored in a local text file (`std.txt`) for persistence.
 
 
 ## 📂 Project Structure
--StudentMgtGUI.java
+<img src="Screenshots/Screenshot 2025-10-03 141350.png">
 
 ## ⚙️ How to Run
 
@@ -34,11 +34,11 @@ Student data is stored in a local text file (`std.txt`) for persistence.
 3. **Run file**:
    java StudentMgtGUI
 
-4. **Screenshot**:
+## Screenshot
 <img src="Screenshots/Screenshot (20).png">
 <img src="Screenshots/Screenshot (21).png">
 
-5. **Example**:
+## Example
  101,John Doe,20,85
  102,Alice Smith,19,92
  103,Bob Johnson,21,78
